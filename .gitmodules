@@ -5,3 +5,6 @@
 [submodule "NBDCtoolsData"]
 	path = NBDCtoolsData
 	url = https://github.com/nbdc-datahub/NBDCtoolsData
+[submodule "NBDCvalidation"]
+	path = NBDCvalidation
+	url = https://github.com/nbdc-datahub/NBDCvalidation
